@@ -1,0 +1,1 @@
+bcp "SELECT * FROM AdventureWorksDW2022..DimCustomer" queryout C:\Users\GBASAK\Downloads\Data_Export_Jobs\Exported_Files\TESTSAMPLE.CSV -c -t "|" -T -S HostName
